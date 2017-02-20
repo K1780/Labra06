@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2EBF09C6-1FC5-4DD1-8600-5E1428DF8A2D}</ProjectGuid>
+    <ProjectGuid>{36973FE5-AE2A-480D-B15F-9D62453F3334}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Labra06</RootNamespace>
-    <AssemblyName>Labra06</AssemblyName>
+    <RootNamespace>Jyp</RootNamespace>
+    <AssemblyName>Jyp</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
